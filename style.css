@@ -1,0 +1,12 @@
+
+body {
+  text-align:center;
+  font-family: 'Lunasima', sans-serif;
+  background-image: url(/download.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 1617px 784px;
+}
+canvas {
+  border: 2px solid rgb(140, 182, 25);
+}
